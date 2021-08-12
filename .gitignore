@@ -1,0 +1,6 @@
+.venv
+setenv.sh
+.idea
+__pycache__
+temp
+logs
